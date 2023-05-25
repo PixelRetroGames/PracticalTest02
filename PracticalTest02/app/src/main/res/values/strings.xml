@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practical Test 02</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">CLIENT</string>
+    <string name="client_hour">HH</string>
+    <string name="client_port">Port</string>
+    <string name="client_minutes">MM</string>
+    <string name="information_type">Information Type</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="reset_alarm">Reset Alarm</string>
+    <string name="check_alarm">Check Alarm</string>
+    <string-array name="information_types">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>condition</item>
+        <item>pressure</item>
+        <item>humidity</item>
+        <item>all</item>
+    </string-array>
+</resources>
